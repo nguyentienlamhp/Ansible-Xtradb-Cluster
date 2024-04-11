@@ -60,3 +60,9 @@ ssh user@192.168.1.100
 //cai xtrabackup
 
 sudo apt install percona-xtrabackup-80
+
+//cai dat pmm 
+
+https://github.com/percona/pmm
+
+//cai dat client pmm tren cac node de theo doi
